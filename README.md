@@ -162,7 +162,9 @@ This was addressed by adhering to legislation and regulations worldwide. As ment
 
 ## Main Data Analysis Libraries
 * Here you should list the libraries you used in the project and provide an example(s) of how you used these libraries.
-Table
+
+
+
 | Library       | Purpose                                              |
 | ------------- | ----------------------------------------------------- |
 | Pandas        | Data cleaning, manipulation, and analysis           |
@@ -171,6 +173,7 @@ Table
 | Numpy         | Numerical applications in Python                        |
 | Scikit-learn  | Machine Learning & Data Analysis                        |
 | Plotly        | Interactive visualisations                            |
+
 
 
 ## Credits 
