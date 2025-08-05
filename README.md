@@ -1,6 +1,7 @@
 # ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
 # Introduction
+
 **Project Global Store** is based on the data experimental methodology, where I will be carrying out analysis, identifying trends, and showing visualisations that reflect what is within the data. The scope of this project will focus on the business requirements, hypothesis testing, project plan, and the analysis techniques used.
 
 
@@ -81,5 +82,102 @@ The Gantt chart shows the various stages of the project, given the time frame.
 
 
 ![e-Commerce Project Stages ](gantt_chart/gantt.png)
+
+
+The various libraries required for the project were installed to begin with. The data was managed by loading the CSV file from the Kaggle website into a folder, raw_data,  in the Git Hub repository. Then loaded into a  Jupyter Notebook using Python code. The file was then reduced in size to 10K rows, and then the date was divided into year, month, and day. The file was then checked for null values and empty rows using the appropriate Python code. The data was then saved using a new file name to avoid any confusion and overwriting of the file. I used different variable names for each analysis and visualisation so as not to affect the updated CSV file.
+
+
+* Methodologies you used?
+To understand the given numerical data and identify patterns and trends with the appropriate library outlined in the table above. When taking the time and resources into account, I needed a flexible methodology that would cover each task and produce findings that would be accessible to all stakeholders. I chose the  **OSEMN** framework for the project for this reason. Please see the table below.
+
+
+| Stage       | Application                                  |
+|--------------|-------------------------------------------|
+|**O**btain       | Python				 |
+| **S**crub    | Pandas                    			          |
+| **E**xplore      |Matplotlib &  Seaborn                           |
+| **M**odel         | Scit-learn                                                   |
+| **I**nterpret    | Power BI                                                      |
+
+
+
+## The rationale to map the business requirements to the Data Visualisations
+* List your business requirements and a rationale to map them to the Data Visualisations
+- To see which products sell the most at different times of the year in different geographic regions. – **Matplotlib bar chart**
+
+![Sales by Geographic Regions](URL "Optional title")
+- To identify the different market segments and focus marketing on them to improve sales and customer satisfaction. 
+
+**Seaborn**
+
+![Market Segments](URL "Optional title")
+
+
+**Plotly**
+
+- Detect fraud to reduce the loss to the business and to improve customer trust.
+![Fraud Detection](URL "Optional title")
+
+
+## Analysis Techniques Used
+
+* List the data analysis methods used and explain limitations or alternative approaches.
+The data analysis methods used were as follows:
+-Pandas
+-Numpy
+-Scit-learn
+The downside is that they do not uncover deeper trends and patterns; visual tools could be used to identify these trends to understand data distribution and relationships.
+
+I based the data analysis techniques around the business requirements and would use **groupby** Python code to focus more on a particular aspect of the dataset in order to generate the various insights. Then I would use Python code related to a given business objective, like detecting fraud. Then perform hypothesis testing to ascertain the likelihood of a given occurrence. Then I would generate a visual to give both clarity and insight.
+
+
+The data did limit me; if I had data on GDP and inflation for each country, then this would have provided greater insights. This would have had an impact on disposable income and, therefore, demand for the goods on sale.
+
+I used generative AI to test the code that I input, to generate code for plots, and to detect fraud.
+
+## Ethical considerations
+
+There were only user IDs and no names and addresses, which preserved customers' privacy of which is in keeping with GDPR within Europe. The business would have to adhere to laws and regulations governing the various parts of the world where it trades. To address bias, the data was balanced when dealing with fraud detection, and again, no names were stated when data and visuals were outputted. 
+
+* Overcoming any legal or societal issues
+This was addressed by adhering to legislation and regulations worldwide. As mentioned above, like GDPR. Also, obtaining the consent of customers when they create an online account. To avoid bias, the dataset was balanced when using a K-MEANS algorithm. The data reflects a wide range of customers, and this is why it's important to balance the dataset to provide a clearer insight. The policies on data handling would be made available and maintained. 
+
+## Dashboard Design
+* List all dashboard pages and their content, either blocks of information or widgets, like buttons, checkboxes, images, or any other item that your dashboard library supports.
+* Later, during the project development, you may revisit your dashboard plan to update a given feature (for example, at the beginning of the project, you were confident you would use a given plot to display an insight, but subsequently you used another plot type).
+* How were data insights communicated to technical and non-technical audiences?
+* Explain how the dashboard was designed to communicate complex data insights to different audiences. 
+
+## Unfixed Bugs
+* Please mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a significant variable to consider, paucity of time and difficulty understanding implementation are not valid reasons to leave bugs unfixed.
+* Did you recognise gaps in your knowledge, and how did you address them?
+* If applicable, include evidence of feedback received (from peers or instructors) and how it improved your approach or understanding.
+
+
+## Development Roadmap
+* What challenges did you face, and what strategies were used to overcome these challenges?
+* What new skills or tools do you plan to learn next based on your project experience? 
+
+
+
+## Main Data Analysis Libraries
+* Here you should list the libraries you used in the project and provide an example(s) of how you used these libraries.
+Table
+| Library       | Purpose                                              |
+| ------------- | ----------------------------------------------------- |
+| Pandas        | Data cleaning, manipulation, and analysis           |
+| Matplotlib    | Plotting basic visuals                                |
+| Seaborn       | Statistical plotting                                  |
+| Numpy         | Numerical applications in Python                        |
+| Scikit-learn  | Machine Learning & Data Analysis                        |
+| Plotly        | Interactive visualisations                            |
+
+
+## Credits 
+
+* In this section, you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism. 
+
+## Acknowledgements (optional)
+* Thank the people who provided support through this project.
 
 
