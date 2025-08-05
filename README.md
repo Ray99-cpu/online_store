@@ -78,6 +78,8 @@ The objective of the project was to understand how the business is performing ac
 The Gantt chart shows the various stages of the project, given the time frame.
 
 
-![e-Commerce Project Stages ](URL "Optional title")
+
+
+![e-Commerce Project Stages ](gantt_chart/gantt.png)
 
 
