@@ -15,7 +15,11 @@ The dataset was obtained from the Kaggle website [Explore the E-Commerce Transac
 The business trades worldwide online, selling goods ranging from clothing, electronics and books. The business accepts a variety of payment methods, and purchase amounts range from £3.76 to £752.82. The business generates a fairly even amount of sales revenue from various countries, which may reflect that overseas markets for its products are quite competitive. 
 
 
-![Sales by County](URL "Optional title")
+
+![Sales by County](visualisations/purchases.png)
+
+
+
 
 
 The business is likely to use the 5Ps to determine its marketing strategy. These are:
