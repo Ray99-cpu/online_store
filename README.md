@@ -126,7 +126,11 @@ To understand the given numerical data and identify patterns and trends with the
 **Plotly**
 
 - Detect fraud to reduce the loss to the business and to improve customer trust.
-![Fraud Detection](URL "Optional title")
+
+
+![Fraud Detection](visualisations/fraud.png)
+
+
 
 
 ## Analysis Techniques Used
