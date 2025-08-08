@@ -207,9 +207,10 @@ The dashboard was designed using Balsamiq to create a wireframe to give me an id
 
 
 ## Unfixed Bugs
-* Please mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a significant variable to consider, paucity of time and difficulty understanding implementation are not valid reasons to leave bugs unfixed.
-* Did you recognise gaps in your knowledge, and how did you address them?
-* If applicable, include evidence of feedback received (from peers or instructors) and how it improved your approach or understanding.
+* I encounterd functionality issues on the Power BI dashboard with Key Influences feature, so I had to remove it despite trying other variables from the dataset. I also encountered issues with links and getting them to work, so I looked at the syntax and realised I had to use a forward slash. I also used Copilot and ChatGPT to gain insights and test code and to solve errors concerned with attributes.
+
+* I recognised that I have spend more time in understand the code to plot the various visuals whether it be Matplolib, Plotly or Seaborn. This is so I will understand the order in which to code the visual.
+
 
 
 ## Development Roadmap
