@@ -129,12 +129,12 @@ To understand the given numerical data and identify patterns and trends with the
 
 - To identify the different market segments and focus marketing on them to improve sales and customer satisfaction. 
 
-**Seaborn**
-
-![Market Segments](URL "Optional title")
 
 
-**Plotly**
+![Market Segments](visualisations/segments.png)
+
+
+
 
 - Detect fraud to reduce the loss to the business and to improve customer trust.
 
