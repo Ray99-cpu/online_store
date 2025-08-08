@@ -176,7 +176,15 @@ The dashboard was designed using Balsamiq to create a wireframe to give me an id
 * Global feature – This identifies which countries around the world make purchases.
 
 
-![ecommerce_dashboard]()
+
+
+
+![ecommerce_dashboard](visualisations/dashboard.png)
+
+
+
+
+
 
 
 #### I have used different visuals to suit a non-technical audience, like pie and bar charts using Matplotlib and Seaborn. Also, I have described the visuals and insights using jargon-free language. For a more technical audience, see notebooks, I have used technical terms and language, and described the code that I used to obtain data relating to a certain insight.
