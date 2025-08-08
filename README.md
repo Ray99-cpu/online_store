@@ -215,7 +215,8 @@ The dashboard was designed using Balsamiq to create a wireframe to give me an id
 
 ## Development Roadmap
 * What challenges did you face, and what strategies were used to overcome these challenges?
-* What new skills or tools do you plan to learn next based on your project experience? 
+The challenges I faced were ensuring the visuals were correct to show the right insight, especially the 3D Plotly visual.I used Copilot to begin with and then ChatGPT, but I changed the variables to give me a clear and informative visual.
+* I plan to expand my knowledge on Python and Power BI by committing to various online courses and reinforcing this new knowledge by exploring new datasets.
 
 
 
