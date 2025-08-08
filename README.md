@@ -163,6 +163,11 @@ I used generative AI to test the code that I input, to generate code for plots, 
 
 ## Ethical considerations
 
+The data was obtained from the Kaggle website and is fictitious. However, there were names in the dataset, but in the real world, they would be encrypted before processing. In terms of data retention, the data was stored in an appropriately named folder and given a file name, and was stored safely.
+In terms of bias and fairness, the data might be biased towards certain geographic regions or customer segments. The data was balanced for the purpose of fraud detection.
+In terms of governance, the dataset complies with usage licensing, and no terms were violated. All data cleaning and modelling are documented in Git/GitHub.
+
+
 There were only user IDs and no names and addresses, which preserved customers' privacy of which is in keeping with GDPR within Europe. The business would have to adhere to laws and regulations governing the various parts of the world where it trades. To address bias, the data was balanced when dealing with fraud detection, and again, no names were stated when data and visuals were outputted. 
 
 * Overcoming any legal or societal issues
