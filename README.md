@@ -158,10 +158,30 @@ There were only user IDs and no names and addresses, which preserved customers' 
 This was addressed by adhering to legislation and regulations worldwide. As mentioned above, like GDPR. Also, obtaining the consent of customers when they create an online account. To avoid bias, the dataset was balanced when using a K-MEANS algorithm. The data reflects a wide range of customers, and this is why it's important to balance the dataset to provide a clearer insight. The policies on data handling would be made available and maintained. 
 
 ## Dashboard Design
-* List all dashboard pages and their content, either blocks of information or widgets, like buttons, checkboxes, images, or any other item that your dashboard library supports.
-* Later, during the project development, you may revisit your dashboard plan to update a given feature (for example, at the beginning of the project, you were confident you would use a given plot to display an insight, but subsequently you used another plot type).
-* How were data insights communicated to technical and non-technical audiences?
-* Explain how the dashboard was designed to communicate complex data insights to different audiences. 
+
+The dashboard was designed using Balsamiq to create a wireframe to give me an idea of what the finished dashboard layout would look like. This can be seen below:
+
+
+![dashboard_design]()
+
+
+#### I originally was going to have a matrix and a slicer feature that Power BI  provides, but I had to remove them because they affected the functionality of the Key Influencers feature.
+
+#### The dashboard had two pages, one was concerned with peak purchasing periods, and the main dashboard page had the following features:
+
+* Q & A feature – this would enable the user to drill down into the data. This would be suitable for a non-technical to a technical user. They can ask any questions about the data, primarily because it is AI-driven.
+
+* Key Influences feature – This feature provides information about customers and their likelihood of making purchases based on the dataset.
+
+* Global feature – This identifies which countries around the world make purchases.
+
+
+![ecommerce_dashboard]()
+
+
+#### I have used different visuals to suit a non-technical audience, like pie and bar charts using Matplotlib and Seaborn. Also, I have described the visuals and insights using jargon-free language. For a more technical audience, see notebooks, I have used technical terms and language, and described the code that I used to obtain data relating to a certain insight.
+
+
 
 ## Unfixed Bugs
 * Please mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a significant variable to consider, paucity of time and difficulty understanding implementation are not valid reasons to leave bugs unfixed.
