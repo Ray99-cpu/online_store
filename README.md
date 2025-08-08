@@ -170,8 +170,7 @@ In terms of governance, the dataset complies with usage licensing, and no terms 
 
 There were only user IDs and no names and addresses, which preserved customers' privacy of which is in keeping with GDPR within Europe. The business would have to adhere to laws and regulations governing the various parts of the world where it trades. To address bias, the data was balanced when dealing with fraud detection, and again, no names were stated when data and visuals were outputted. 
 
-* Overcoming any legal or societal issues
-This was addressed by adhering to legislation and regulations worldwide. As mentioned above, like GDPR. Also, obtaining the consent of customers when they create an online account. To avoid bias, the dataset was balanced when using a K-MEANS algorithm. The data reflects a wide range of customers, and this is why it's important to balance the dataset to provide a clearer insight. The policies on data handling would be made available and maintained. 
+Overcoming any legal or societal issues was addressed by adhering to legislation and regulations worldwide. As mentioned above, like GDPR. Also, obtaining the consent of customers when they create an online account. To avoid bias, the dataset was balanced when using a K-MEANS algorithm. The data reflects a wide range of customers, and this is why it's important to balance the dataset to provide a clearer insight. The policies on data handling would be made available and maintained. 
 
 ## Dashboard Design
 
