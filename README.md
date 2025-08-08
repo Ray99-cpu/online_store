@@ -72,7 +72,12 @@ Targeting different countries at different times of the year will be key to gene
 1.	Is the total purchase amount higher between March and August compared to November in the USA?
 
 
-![USA Sales ](URL "Optional title")
+
+
+![USA Sales ](visualisations/usa.png)
+
+
+
 
 
 
