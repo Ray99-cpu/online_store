@@ -118,9 +118,15 @@ To understand the given numerical data and identify patterns and trends with the
 
 ## The rationale to map the business requirements to the Data Visualisations
 * List your business requirements and a rationale to map them to the Data Visualisations
-- To see which products sell the most at different times of the year in different geographic regions. – **Matplotlib bar chart**
+- To see which products sell the most at different times of the year in different geographic regions. This example focuses on Europe.
 
-![Sales by Geographic Regions](URL "Optional title")
+
+
+![Purchases by Europe](visualisations/region.png)
+
+
+
+
 - To identify the different market segments and focus marketing on them to improve sales and customer satisfaction. 
 
 **Seaborn**
