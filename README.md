@@ -187,7 +187,7 @@ The dashboard was designed using Balsamiq to create a wireframe to give me an id
 
 
 
-#### I have used different visuals to suit a non-technical audience, like pie and bar charts using Matplotlib and Seaborn. Also, I have described the visuals and insights using jargon-free language. For a more technical audience, see notebooks, I have used technical terms and language, and described the code that I used to obtain data relating to a certain insight.
+#### I have used different visuals to suit a non-technical audience, like pie and bar charts. Also, I have described the visuals and insights using jargon-free language. For a more technical audience, see notebooks, I have used technical terms and language, and described the code that I used to obtain data relating to a certain insight.
 
 
 
