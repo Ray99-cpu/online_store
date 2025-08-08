@@ -162,7 +162,7 @@ This was addressed by adhering to legislation and regulations worldwide. As ment
 The dashboard was designed using Balsamiq to create a wireframe to give me an idea of what the finished dashboard layout would look like. This can be seen below:
 
 
-![dashboard_design]()
+![dashboard_design](visualisations/wireframe.png)
 
 
 #### I originally was going to have a matrix and a slicer feature that Power BI  provides, but I had to remove them because they affected the functionality of the Key Influencers feature.
