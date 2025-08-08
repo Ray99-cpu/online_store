@@ -127,7 +127,7 @@ To understand the given numerical data and identify patterns and trends with the
 
 
 
-- To identify the different market segments and focus marketing on them to improve sales and customer satisfaction. 
+#### To identify the different market segments and focus marketing on them to improve sales and customer satisfaction. 
 
 
 
@@ -136,7 +136,7 @@ To understand the given numerical data and identify patterns and trends with the
 
 
 
-- Detect fraud to reduce the loss to the business and to improve customer trust.
+#### Detect fraud to reduce the loss to the business and to improve customer trust.
 
 
 ![Fraud Detection](visualisations/fraud.png)
