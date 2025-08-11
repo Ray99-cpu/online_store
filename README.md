@@ -273,9 +273,9 @@ https://www.codecademy.com/resources/docs/markdown/tables
 
 * Kaggle Website - https://www.kaggle.com/datasets/smayanj/e-commerce-transactions-dataset
 
+* ClickPost - https://www.clickpost.ai/blog/ecommerce-fraud-statistics#:~:text=Quick%20highlights%20to%20know%20online,on%20the%20rise%20in%202025.
 
-
-
+* Google AI - GDPR
 
 
 
