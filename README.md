@@ -239,9 +239,46 @@ The challenges I faced were ensuring the visuals were correct to show the right 
 
 ## Credits 
 
-* In this section, you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism. 
+* Pixabay Royalty Free image – e-commerce logo
+https://pixabay.com/illustrations/ecommerce-online-shopping-e-commerce-1992280/
+
+* Pandas Documentation - Groupby 
+ https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.groupby.html
+
+* Pandas Documentation - Datetime
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.to_datetime.html
+The code was also automatically generated within a Jupyter notebook after inputting the first line.
+
+* Online Fraud reference
+https://www.demandsage.com/ecommerce-fraud-statistics/
+
+* Power BI - ULTIMATE Power BI Tutorial Beginner to Pro Course (2024)
+https://www.youtube.com/watch?v=Dk25lwdTKow&t=2256s
+
+* Make a Power BI Dashboard in 15 Minutes!
+https://www.youtube.com/watch?v=NISsW-bVAwU
+
+* Code Academy - Markdown Tables
+https://www.codecademy.com/resources/docs/markdown/tables
+
+* Markdown Live Preview - https://markdownlivepreview.com/
+
+
+* Balsamiq Wireframe - https://balsamiq.cloud/#
+
+* World Celebration Days – Copilot
+
+* Kaggle Website - https://www.kaggle.com/datasets/smayanj/e-commerce-transactions-dataset
+
+
+
+
+
+
 
 ## Acknowledgements (optional)
 * Thank the people who provided support through this project.
 
-
+* Emma Lamont - Code Institute
+* Spencer -  Code Institute
+* Niel McEwan - Code Institute
